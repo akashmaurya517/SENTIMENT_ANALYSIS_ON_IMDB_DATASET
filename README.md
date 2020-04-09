@@ -14,7 +14,7 @@ please do install others if you need
 ### step  2:
 Run **Sentiment_Analysis_training.py** file first
 
-### step 4:
+### step 3:
 now Run  **Sentiment_Analysis.py** file to get result
 ## Result
 the result will be the array of two elements 
