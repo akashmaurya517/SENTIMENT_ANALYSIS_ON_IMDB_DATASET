@@ -18,5 +18,5 @@ Run **Sentiment_Analysis_training.py** file first
 now Run  **Sentiment_Analysis.py** file to get result
 ## Result
 the result will be the array of two elements 
-### first element will be showing the pobability of being the sentence or review negative 
-### the second element of arry is the probability of being thesentence or review positive
+### first element of the array will be showing the pobability of being the sentence or review negative 
+### the second element of array is the probability of being the sentence or review positive
