@@ -20,3 +20,5 @@ now Run  **Sentiment_Analysis.py** file to get result
 the result will be the array of two elements 
 ### first element of the array will be showing the pobability of being the sentence or review negative 
 ### the second element of array is the probability of being the sentence or review positive
+
+file ipynb file is the python noteboomk developement file for this project
